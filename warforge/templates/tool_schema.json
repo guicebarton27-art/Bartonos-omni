@@ -1,0 +1,12 @@
+{
+  "name": "tool_call",
+  "description": "Strict tool calling schema",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "tool": {"type": "string"},
+      "payload": {"type": "object"}
+    },
+    "required": ["tool", "payload"]
+  }
+}

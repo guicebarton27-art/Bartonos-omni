@@ -1,0 +1,5 @@
+.venv/
+.warforge/
+runs/
+__pycache__/
+*.pyc

@@ -1,0 +1,4 @@
+{
+  "title": "Receipt verification",
+  "description": "Ensure receipt includes risks, commands, and rollback."
+}
